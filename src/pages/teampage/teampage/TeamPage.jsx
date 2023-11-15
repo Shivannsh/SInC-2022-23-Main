@@ -10,8 +10,8 @@ import oc from "../assets/oc/oc.jpg";
 import ctm1 from "../assets/ctm/ctm-amit-kumar.jpg";
 import ctm2 from "../assets/ctm/ctm-rahul-chhabra.jpeg";
 import coordiTech1 from "../assets/technical/coordi-satyapragnya.jpg";
-import coordiTech2 from "../assets/technical/coordi-harsh.jpeg";
-import coordiTech3 from "../assets/technical/coordi-dev.jpg";
+import coordiTech2 from "../assets/technical/coordi-shivansh.jpeg";
+import coordiTech3 from "../assets/technical/coordi-gautam.jpeg";
 import exeTech2 from "../assets/technical/exe-gopal.jpg";
 import exeTech3 from "../assets/technical/exe-jaskaran.jpg";
 import exeTech4 from "../assets/technical/exe-nancy.jpg";
@@ -75,8 +75,8 @@ const TeamPage = () => {
               position="Coordinator"
               img={coordiTech1}
             />
-            <Card name="Harsh" position="Coordinator" img={coordiTech2} />
-            <Card name="Dev" position="Coordinator" img={coordiTech3} />
+            <Card name="Shivansh" position="Coordinator" img={coordiTech2} />
+            <Card name="Gautam" position="Coordinator" img={coordiTech3} />
           </div>
           <div className="div-exe">
             <Exe name="Vatsal" img={exeTech5} />
